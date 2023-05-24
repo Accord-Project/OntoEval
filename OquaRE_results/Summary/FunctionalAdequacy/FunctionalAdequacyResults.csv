@@ -287,6 +287,25 @@ Text analysis;5.0
 "Controlled
  vocabulary";5.0
 "Schema &
+ value reconciliation";3.0
+"Consistent
+ Search & Query";2.8
+"Knowledge
+ acquisition";3.3333333333333335
+"Clustering &
+ similiraty";1.0
+"Indexing &
+ linking";1.3333333333333333
+"Results
+ representation";1.0
+Text analysis;5.0
+"Guidance &
+ decision trees";1.5
+"Knowledge
+ reuse";3.857142857142857
+"Controlled
+ vocabulary";5.0
+"Schema &
  value reconciliation";3.75
 "Consistent
  Search & Query";3.8
@@ -474,6 +493,25 @@ Text analysis;5.0
  decision trees";5.0
 "Knowledge
  reuse";4.285714285714286
+"Controlled
+ vocabulary";5.0
+"Schema &
+ value reconciliation";4.0
+"Consistent
+ Search & Query";4.2
+"Knowledge
+ acquisition";5.0
+"Clustering &
+ similiraty";3.0
+"Indexing &
+ linking";3.6666666666666665
+"Results
+ representation";1.0
+Text analysis;5.0
+"Guidance &
+ decision trees";3.0
+"Knowledge
+ reuse";4.428571428571429
 "Controlled
  vocabulary";5.0
 "Schema &

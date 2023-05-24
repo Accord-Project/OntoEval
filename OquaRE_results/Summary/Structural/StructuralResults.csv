@@ -89,6 +89,12 @@
 3;Redundancy;5
 4;Formalization;5
 5;Consistency;5
+0;Formal relations;1
+1;Cohesion;5
+2;Tangledness;5
+3;Redundancy;5
+4;Formalization;5
+5;Consistency;5
 0;Formal relations;4
 1;Cohesion;5
 2;Tangledness;5
@@ -147,6 +153,12 @@
 1;Cohesion;5
 2;Tangledness;5
 3;Redundancy;1
+4;Formalization;5
+5;Consistency;5
+0;Formal relations;5
+1;Cohesion;5
+2;Tangledness;5
+3;Redundancy;5
 4;Formalization;5
 5;Consistency;5
 0;Formal relations;5

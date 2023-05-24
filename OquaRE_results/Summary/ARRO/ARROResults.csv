@@ -74,6 +74,11 @@ Recoverability;4.0
 Availability;4.0
 Replaceability;3.0
 Learnability;3.6666666666666665
+Adaptability;2.75
+Recoverability;3.75
+Availability;4.75
+Replaceability;3.75
+Learnability;4.0
 Adaptability;3.0
 Recoverability;4.0
 Availability;4.75
@@ -124,6 +129,11 @@ Recoverability;3.75
 Availability;4.75
 Replaceability;3.75
 Learnability;4.666666666666667
+Adaptability;4.0
+Recoverability;4.0
+Availability;5.0
+Replaceability;4.0
+Learnability;5.0
 Adaptability;2.0
 Recoverability;4.0
 Availability;3.5
